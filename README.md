@@ -8,11 +8,11 @@ A modern and sleek website showcasing the legendary Mustang 1969. I have made **
 - **Social Media Integration**: Links to Facebook, Instagram, Twitter, and YouTube.  
 - **Stylish Visuals**: Carefully chosen fonts and a modern color palette.
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **Hosted on Vercel**: [Click here to view the website](https://mustang-sidebar-menu.vercel.app/)
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 
 - **HTML5**: Structuring the content  
 - **CSS3**: Styling the website  
